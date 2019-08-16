@@ -2,7 +2,8 @@
 
 void main(){
 
-    printf("Hallow world\n");
+    printf("Hallow world");
 
     return 0;
 }
+
