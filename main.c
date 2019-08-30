@@ -6,7 +6,9 @@ void main(){
     printf("akasanatankadikn\n");
     printf("dafnkagnknannknn\n");
     printf("dagaadaadaknoknnkneknknnonknkdnad\n");
+    printf("otamesi");
 
     return 0;
 }
+
 
